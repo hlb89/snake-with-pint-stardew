@@ -5,3 +5,6 @@
 !.gitignore
 !SnakeWithPint_269038746
 !SnakeWithPint_269038746/*
+
+// ignore .DS_STORE
+*/.DS_Store
